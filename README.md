@@ -1,6 +1,6 @@
 # Tran et al. (2018)
 
-Al data in this repository is associated with the following paper:
+All data in this repository is associated with the following paper:
 
 Data from the paper: Tran, D., Kuprenas, R., and Strom, K. (2018). How do changes in suspended sediment concentration alone influence the size of mud flocs under steady turbulent shearing? *Continental Shelf Research*, 158:1-14. doi: [10.1016/j.csr.2018.02.008](https://doi.org/10.1016/j.csr.2018.02.008).
 
